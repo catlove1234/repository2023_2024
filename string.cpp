@@ -1,6 +1,7 @@
 /*
 wprowadzenie do funkcji "string"
-wersja 1.0
+wersja 1.1
+nie jest to zadanie, a jedynie zapoznanie siê z funkcj¹ "string", która z pewnoœæi¹ siê wam przyda jeœli tylko bêdziecie chcieli mieæ silniejsze wiêzi z programowaniem
 */
 
 #include <iostream>
